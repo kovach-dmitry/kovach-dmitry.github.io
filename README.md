@@ -1,2 +1,2 @@
 # kovach-dmitry.github.io
-Tasks for practice Kovach D.O. AI-202.
+AI-202 Kovach's D.O. work experience practical task.
